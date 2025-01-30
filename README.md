@@ -22,7 +22,7 @@ The analysis was conducted using Power BI. The following steps were taken to ana
 •	Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashboards made it easier to communicate the results to stakeholders and highlight key factors.
 
 ## Dashboard
-[TechnoWave Technology](![TechnoWave](https://github.com/user-attachments/assets/62053ef6-5d14-488a-9b84-1b0170dad50f)
+![Image](https://github.com/user-attachments/assets/62053ef6-5d14-488a-9b84-1b0170dad50f)
 
 ## Key Insights and Findings:
 
